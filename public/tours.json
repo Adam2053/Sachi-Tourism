@@ -1,0 +1,94 @@
+[
+  {
+    "id":1,
+    "title": "Kashmir",
+    "city": "Kashmir",
+    "address": "Kashmir",
+    "distance": 300,
+    "price": 24999,
+    "maxGroupSize": 10,
+    "desc": "We'll explore whole of kashmir",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/kashmir.jpg",
+    "featured": true
+  },
+  { "id":2,
+    "title": "Bodh Gaya",
+    "city": "Bodh Gaya",
+    "address": "Bihar",
+    "distance": 400,
+    "price": 14000,
+    "maxGroupSize": 8,
+    "desc": "Dhamma-Yatra-:1. BodhGaya, 2. Sujata Mahal, 3. Lumbini, 4. Rajgiri, 5. Nalanda Vishwa Vidyapeeth, 6. Vaishali, 7. Kesariya Stupa, 8. Kapi Vastu, 9. Sarnath, 10. Avasthi, 11. Kushinagar, 12. Tapo Bhumi(Dhummedhari Parvat), 13. Lucknow",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/bodhgaya.jpg",
+    "featured": true
+  },
+  { "id":3,
+    "title": "Chikaldara",
+    "city": "Chikaldara",
+    "address": "Chikaldara",
+    "distance": 400,
+    "price": 2500,
+    "maxGroupSize": 8,
+    "desc": "Day1. 1. Saturday- Departure from Chandrapur at 10 or 11AM for Amravati. 2. Ganapati darshan of kalam. Darshan of Ambadevi of Amravati, freshen up in Amravati at night, relax after dinner.... Day2. 1. With morning tea and breakfast by Muktagiri/Chikaldara travel Chikaldara. --Sidescene tour full meal in the evening after coming from the tour",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/chikaldara.jpg",
+    "featured": true
+  },
+  { "id":4,
+    "title": "Hyderabad",
+    "city": "Hyderabad",
+    "address": "Hyderabad",
+    "distance": 400,
+    "price": 7500,
+    "maxGroupSize": 8,
+    "desc": "Tour is completed on 17Nov to 21Nov stay tuned for future updates",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/hyedrabad.jpg",
+    "featured": true
+  },
+  { "id":5,
+    "title": "Kerala, Tamil Nadu",
+    "city": "Kerala, Tamil Nadu",
+    "address": "Kerala, Tamil Nadu",
+    "distance": 400,
+    "price": 24000,
+    "maxGroupSize": 8,
+    "desc": "Tourist Places: Munnur, Kodaikanal, Madhuri, Rameshwaram, Kanyakumari, Trivandrum, Allepey",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/kerala-tamil2.jpg",
+    "featured": true
+  },
+  { "id":6,
+    "title": "Manali-Kullu Manikaran",
+    "city": "Manali-Kullu Manikaran",
+    "address": "Manali-Kullu Manikaran",
+    "distance": 400,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "5Night/6Days on 3 March 2024",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/kullu.jpg",
+    "featured": true
+  },
+  { "id":7,
+    "title": "Ram Yatra Dhun",
+    "city": "Ayodhya, Varanasi, Prayagraj",
+    "address": "Uttar Pradesh",
+    "distance": 400,
+    "price": 16500,
+    "maxGroupSize": 8,
+    "desc": "Included: -Ac Tier 3 train reservation -3 star hotel -Breakfast and dinner -AC bus",
+    "reviews": [],
+
+    "photo": "/tour-images/Tour Banner/ram_yatra.jpg",
+    "featured": true
+  }
+]

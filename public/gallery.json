@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "photo":"/tour-images/Gallery/photo1.jpg"
+    },
+    {
+        "id":2,
+        "photo":"/tour-images/Gallery/photo2.jpg"
+    },
+    {
+        "id":3,
+        "photo":"/tour-images/Gallery/photo3.jpg"
+    },
+    {
+        "id":4,
+        "photo":"/tour-images/Gallery/photo4.jpg"
+    },
+    {
+        "id":5,
+        "photo":"/tour-images/Gallery/photo5.jpg"
+    },
+    {
+        "id":6,
+        "photo":"/tour-images/Gallery/photo6.jpg"
+    },
+    {
+        "id":7,
+        "photo":"/tour-images/Gallery/photo7.jpg"
+    },
+    {
+        "id":8,
+        "photo":"/tour-images/Gallery/photo8.jpg"
+    }
+    
+
+]
